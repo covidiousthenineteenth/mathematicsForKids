@@ -17,7 +17,7 @@ function Main(props)
 
 
     return (<main>
-      <h1 className="text-center">Mathificent</h1>
+      <h1 className="text-center">Challenge your Math Velocity!</h1>
       <div className="row mx-1 my-3">
             <SelectInput label="Operation"
               id="operation"

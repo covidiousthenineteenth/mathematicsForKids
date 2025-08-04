@@ -15,7 +15,7 @@ function Header()
                   </li>
               </ul>
           </div>
-          <a className="navbar-brand" href="/">Mathificent</a>
+          <a className="navbar-brand" href="/">Mathematics for Kids</a>
         </div>
       </nav>
     </header>)
